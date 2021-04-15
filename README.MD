@@ -21,7 +21,6 @@ pip install -r req.txt
 
 # Usage 
 - Shodan API
-
 First Create An Account On Shodan.com
 Go To developers And Get Your API key 
 go to the script and put Your API key in S_API

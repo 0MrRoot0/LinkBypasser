@@ -1,2 +1,0 @@
-# LinkBypasser
-Hello Github!

@@ -1,5 +1,5 @@
 # LinkBypasser
-Script that taks a url and follows the redirctions written in python
+Script that takes a url and follows the redirctions written in python
 - It works in both Windows and Linux systems 
 # Install 
 - On Linux

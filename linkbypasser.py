@@ -10,8 +10,8 @@ import socket
 import re
 import io
 import tarfile
-V_API = "8c2337b2f7536099da76ed1ee9e20b537ca1a9cc80a5e4e146908b6b5f9a648b"
-S_API = "7LlJsHMKaLqNk0lG3NitI7CNWgdKvr4Q"
+V_API = "virus Total Api Key"
+S_API = "Shodan API key"
 banner = """
  __       __  _______       _______    ______    ______   ________ 
 /  \     /  |/       \     /       \  /      \  /      \ /        |

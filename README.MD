@@ -33,3 +33,6 @@ Run it using python !
 ```bash
 python linkbypasser.py
 ```
+# TODO list ( tbh im not updating this )
+Adding Proxy's Support
+filtering VirusTotal & Shodan Output ( Making It look nice not just dumping the whole result ) 

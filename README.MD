@@ -1,5 +1,5 @@
 # LinkBypasser
-Script that takes a url and follows the redirctions written in python
+Script that I wrote while learning python, it simply takes a url and follows the redirctions.
 - It works in both Windows and Linux systems 
 # Install 
 - On Linux
@@ -33,6 +33,4 @@ Run it using python !
 ```bash
 python linkbypasser.py
 ```
-# TODO list ( tbh im not updating this )
-Adding Proxy's Support
-filtering VirusTotal & Shodan Output ( Making It look nice not just dumping the whole result ) 
+
